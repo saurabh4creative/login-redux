@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "first_name": "Saurabh",
+      "last_name": "Jain",
+      "email": "saurabh4creative@gmail.com",
+      "password": "password",
+      "confirm_password": "password",
+      "id": 1
+    },
+    {
+      "first_name": "Mohini",
+      "last_name": "Jain",
+      "email": "mohini@gmail.com",
+      "password": "mohini",
+      "confirm_password": "mohini",
+      "id": 2
+    }
+  ],
+  "contacts": [
+    {
+      "title": "Data Title asdsa",
+      "contact_name": "Mohini Jainsadsa",
+      "contact_number": "8768594832dsad",
+      "id": 2
+    },
+    {
+      "title": "Sony",
+      "contact_name": "Vaio Service Center",
+      "contact_number": "9839382675",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "title": "New ",
+      "contact_name": "Tesla",
+      "contact_number": "78237823784",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "title": "Newasdsd",
+      "contact_name": "asdsad",
+      "contact_number": "sa",
+      "userId": 2,
+      "id": 5
+    },
+    {
+      "title": "New Data",
+      "contact_name": "New Data",
+      "contact_number": "New Data",
+      "userId": 2,
+      "id": 6
+    },
+    {
+      "title": "Change",
+      "contact_name": "Change",
+      "contact_number": "Change",
+      "userId": 2,
+      "id": 8
+    }
+  ]
+}
